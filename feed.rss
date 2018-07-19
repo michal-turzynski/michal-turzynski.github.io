@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>michal.ms</title>
+		<link>http://michal-turzynski.github.io/</link>
+		<description>Welcome!</description>
+		<copyright>2018</copyright>
+		<pubDate>Thu, 19 Jul 2018 21:10:12 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Jul 2018 21:10:12 GMT</lastBuildDate>
+		<item>
+			<title>First Post</title>
+			<link>http://michal-turzynski.github.io/posts/first-post</link>
+			<description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
+			<guid>http://michal-turzynski.github.io/posts/first-post</guid>
+			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my first post!&lt;/p&gt;
+</content:encoded>
+		</item>
+	</channel>
+</rss>
