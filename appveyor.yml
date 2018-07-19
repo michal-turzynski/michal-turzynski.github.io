@@ -21,7 +21,7 @@ install:
 
 build_script:
   # - ..\Wyam\wyam --output ..\output
-  - cmd: PowerShell -Version 2.0 .\build.ps1
+  - cmd: PowerShell -Version 2.0 .\build.ps1 -Script build.gh.cake
 
 on_success:
   # Switch branches to gh-pages, clean the folder, copy everything in from the Wyam output, and commit/push
