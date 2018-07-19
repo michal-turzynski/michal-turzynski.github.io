@@ -21,6 +21,7 @@ install:
 
 build_script:
   # - ..\Wyam\wyam --output ..\output
+  - dir
   - .\build.ps1
 
 on_success:
