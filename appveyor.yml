@@ -27,6 +27,8 @@ build_script:
   - cmd: dir
   - cmd: cd output
   - cmd: dir
+  - cmd: cd posts
+  - cmd: dir
 
 
 on_success:
