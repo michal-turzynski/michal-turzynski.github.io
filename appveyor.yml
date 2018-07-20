@@ -8,7 +8,7 @@ environment:
     secure: hJavr9L2B9O625eKVHsoQaZLFQFpcleSIfifq8JsXj27q6/BGTbCsoE29z4OVEuS
 
 install:
-  # - git submodule update --init --recursive
+  - git submodule update --init --recursive
   # - mkdir ..\Wyam
   # - mkdir ..\output
   # # Fetch the latest version of Wyam 
